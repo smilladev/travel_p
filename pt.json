@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "brand": "Triple Frontera Transfers",
+    "about": "Quem somos",
+    "services": "Serviços",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Sua viagem começa aqui",
+    "subtitle": "Traslados seguros e confortáveis na Tríplice Fronteira — Argentina, Brasil e Paraguai",
+    "cta": "Reserve seu transfer"
+  },
+  "about": {
+    "title": "Quem somos",
+    "description": [
+      "A Triple Frontera Transfers nasceu em 2008 com uma missão simples: conectar pessoas entre as três cidades irmãs de Puerto Iguazú, Foz do Iguaçu e Ciudad del Este com profissionalismo, pontualidade e calor humano. O que começou com uma única van e muito entusiasmo é hoje uma empresa consolidada com mais de 15 unidades modernas.",
+      "Operamos 365 dias por ano, 24 horas por dia, cobrindo traslados aeroportuários, excursões às Cataratas do Iguaçu, transfers interurbanos e serviços corporativos para empresas da região. Nossos motoristas são profissionais certificados, bilíngues (português/espanhol) e com amplo conhecimento da região.",
+      "Temos orgulho de ser a opção de confiança de turistas, executivos e moradores que precisam de mobilidade sem complicações em uma das regiões mais vibrantes da América do Sul. Cada viagem é para nós uma oportunidade de superar expectativas."
+    ]
+  },
+  "services": {
+    "title": "Nossos Serviços",
+    "items": [
+      {
+        "icon": "✈️",
+        "name": "Traslados Aeroportuários",
+        "description": "Embarque e desembarque nos aeroportos de Puerto Iguazú (IGR) e Foz do Iguaçu (IGU). Monitoramento de voos em tempo real para nos adaptarmos a qualquer atraso."
+      },
+      {
+        "icon": "🌊",
+        "name": "Excursões às Cataratas",
+        "description": "Traslados privados e em grupo ao Parque Nacional Iguazú (lado argentino) e ao Parque Nacional do Iguaçu (lado brasileiro). Guia opcional disponível."
+      },
+      {
+        "icon": "🚌",
+        "name": "Transfers entre Cidades",
+        "description": "Serviço regular e privado entre Puerto Iguazú, Foz do Iguaçu e Ciudad del Este. Cruzamento de fronteira assistido, sem complicações com procedimentos aduaneiros."
+      },
+      {
+        "icon": "💼",
+        "name": "Serviço Corporativo",
+        "description": "Transporte executivo para empresas com contrato mensal, faturamento na Argentina, Brasil ou Paraguai, e veículos premium para reuniões e eventos corporativos."
+      },
+      {
+        "icon": "🎉",
+        "name": "Eventos e Turismo de Grupos",
+        "description": "Organização logística para grupos, congressos e agências de viagem. Frota de vans e ônibus disponíveis para eventos de qualquer escala."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contato",
+    "phone": "+55 45 9149-2238",
+    "email": "info@triplefronteratransfers.com",
+    "address": "Av. Victoria Aguirre 123, Puerto Iguazú, Misiones, Argentina"
+  },
+  "footer": {
+    "rights": "© 2025 Triple Frontera Transfers. Todos os direitos reservados."
+  },
+  "whatsapp": {
+    "tooltip": "Converse conosco pelo WhatsApp"
+  }
+}
