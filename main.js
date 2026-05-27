@@ -10,8 +10,8 @@
 
 /* ── Configuración ── */
 
-// WhatsApp: +55 45 9149-2238
-const WHATSAPP_NUMBER = '5545914922238';
+// WhatsApp: +55 45 99149-2238
+const WHATSAPP_NUMBER = '5545991492238';
 
 const SUPPORTED_LANGS = ['es', 'pt'];
 const DEFAULT_LANG    = 'es';
